@@ -1,0 +1,5 @@
+git clone  <git lab template url> <project_name>
+cd <project_name>
+npm install
+npm start
+Navigate to http://localhost:8001
